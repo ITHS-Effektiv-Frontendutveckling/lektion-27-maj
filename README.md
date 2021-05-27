@@ -6,6 +6,8 @@ Ta en av de tidigare övningarna vi gjort (ex. shopping cart, childrens book lib
 
 ## Artiklar
 
+Funktionell programmering vs objekt-orienterad programmering: https://dev.to/thecodess/functional-programming-vs-object-oriented-programming-2he8
+
 ## Videor
 
 ## Inspelningar
