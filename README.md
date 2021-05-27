@@ -11,3 +11,5 @@ Ta en av de tidigare övningarna vi gjort (ex. shopping cart, childrens book lib
 ## Inspelningar
 
 Förmiddag: https://ithogskolan.sharepoint.com/sites/Frontendutvecklare2020/Delade%20dokument/Effektiv%20frontendutveckling/Recordings/Lektion%20-%20Torsdagar-20210527_091828-M%C3%B6tesinspelning.mp4?web=1
+
+Eftermiddag: https://ithogskolan.sharepoint.com/sites/Frontendutvecklare2020/Delade%20dokument/Effektiv%20frontendutveckling/Recordings/Lektion%20-%20Torsdagar-20210527_130831-M%C3%B6tesinspelning.mp4?web=1
